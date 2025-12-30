@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hi, I'm Tyler 👋
+  Hey, it's Tyler
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4c2l5ZmJ3bnF1Y2tnbDVtY3V5a3E5aW55Z216aTZnZ3Z5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iKTXZnI7ylD6l/giphy.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </h1>
 
 <p align="center">
-  <strong>BS Computer Science Graduate | Game Engine & Systems Programmer</strong>
+  <strong>BS Computer Science Graduate | Systems Programmer & Game Developer</strong>
 </p>
 
 <p align="center">
@@ -16,19 +16,20 @@
 
 🧱 [VoxelByte](https://github.com/tyler-eaker/VoxelByte): A high-performance voxel rendering engine built from scratch. Features include custom chunk management, dynamic meshing, and optimized shader implementations using **C++** and **OpenGL**.
 
-🌟 [ProjectNova](https://github.com/tyler-eaker/ProjectNova): A 2D game framework designed for flexibility and speed. Implements core game loop architecture and entity management using **C++** and **SFML**.
-
-💻 [Portfolio](https://tyler-eaker.github.io/): My personal developer portfolio showcasing my projects and technical articles, hosted on GitHub Pages.
+🏔️ [Infinity Climber](https://github.com/tyler-eaker/infinityclimber): A vertical platforming game featuring dynamic physics and procedural generation. Implements custom player controllers and scalable game logic using **Godot**.
 
 ***Technical Skills***
 
-C++, C, Lua | OpenGL, SFML, ImGui, Godot | Node.js, Angular | Git, CMake
+C++, C, C#, Java | Windows, Linux | OpenGL, SFML, Godot | Git, CMake
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://tylereaker.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tyler-eaker/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tylerjameseaker@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
